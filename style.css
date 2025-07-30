@@ -19,10 +19,5 @@ body {
   width: 6px;
   height: 5px;
   border: 2px dashed #999;
-  margin: 20px 0;
-  display: 1;
-  align-items: center;
-  justify-content: center;
   color: #777;
-  font-size: 1.2rem;
 }
