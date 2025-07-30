@@ -16,8 +16,8 @@ body {
 }
 
 .image-placeholder {
-  width: 6px;
-  height: 5px;
+  width: 3px;
+  height: 2px;
   border: 2px dashed #999;
   color: #777;
 }
